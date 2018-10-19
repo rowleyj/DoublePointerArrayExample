@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539912802 source:c:\users\jrowl\onedrive\desktop\2nd year\fall\compeng 2sh4\c files\tutori\tutorial4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
